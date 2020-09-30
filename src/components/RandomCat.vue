@@ -39,7 +39,7 @@
                             </div>
                 </div>
             </div>
-            <a href="#" class="btn btn-primary btn-lg" @click="GetMyCat">Give my kitty!!</a>
+            <a href="#" class="btn btn-primary btn-lg" @click="GetMyCat">Give me my kitty!!</a>
         <div class="col">
             <img :src="url" class="img-fluid mt-5 mb-5">
         </div>
