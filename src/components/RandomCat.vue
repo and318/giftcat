@@ -147,10 +147,4 @@ export default {
     .color-show {
         padding: 0 20px;
     }
-    button{
-        width:200px;
-        margin-left:40%;
-        margin-top:20px;
-        margin-bottom:20px;
-    }
 </style>
